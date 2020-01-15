@@ -1,0 +1,9 @@
+name: HumineWelcome
+version: 1.0a
+author: MizakiGaming
+main: main.MainWelcome
+commands:
+  setwelcomespawn:
+    permission: huminewelcome.admin.setwelcomespawn
+  resetwelcomespawn:
+    permission: huminewelcome.admin.resetwelcomespawn
